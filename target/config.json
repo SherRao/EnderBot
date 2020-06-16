@@ -1,0 +1,15 @@
+{
+  "chat-prefix": "!",
+  "music-channel": "music",
+  "donator-ranks": [
+    "Donator"
+  ],
+  "staff-roles": [
+    "Administrator",
+    "Owner"
+  ],
+  "website": "website",
+  "shop": "shop",
+  "ip": "ip",
+  "donator-channel-category": "donator-channels"
+}

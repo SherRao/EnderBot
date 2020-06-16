@@ -1,0 +1,1 @@
+java -jar -Xmx256M ./EnderBot.jar
